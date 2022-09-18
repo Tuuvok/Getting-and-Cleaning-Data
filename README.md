@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data
 Coursera - Getting and Cleaning Data Course Project
 
-# run_analysis.R
+## run_analysis.R
 
 1. get data from the website
 2. extract (unzip) data
