@@ -2,8 +2,8 @@
 
 ## Identifiers
 
-Subject - ID of test subject
-Activity - Activity performed
+- Subject: ID of test subject
+- Activity: Activity performed
 
 ## Measurements
 
@@ -43,7 +43,7 @@ Activity - Activity performed
 - "tGravityAccMag-std()"
 - "tBodyAccJerkMag-mean()"
 - "tBodyAccJerkMag-std()"
-"tBodyGyroMag-mean()"
+- "tBodyGyroMag-mean()"
 - "tBodyGyroMag-std()"
 - "tBodyGyroJerkMag-mean()"
 - "tBodyGyroJerkMag-std()"
